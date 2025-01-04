@@ -1,5 +1,5 @@
 # Variables
-APP_NAME := vsiochat
+APP_NAME := visiochat
 RAILS_ENV ?= development
 
 # Targets

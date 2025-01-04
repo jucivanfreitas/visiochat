@@ -1,18 +1,18 @@
 # ------- Branding Related Config ------- #
 - name: INSTALLATION_NAME
-  value: 'VisioChat'
+  value: 'VisioChat instalation'
 - name: LOGO_THUMBNAIL
   value: 'https://datavisio.store/visiochat/logo_thumbnail.svg'
 - name: LOGO
-  value: '/brand-assets/logo.svg'
+  value: 'https://datavisio.store/visiochat/logo_thumbnail.svg'
 - name: LOGO_DARK
-  value: '/brand-assets/logo_dark.svg'
+  value: 'https://datavisio.store/visiochat/logo_thumbnail.svg'
 - name: BRAND_URL
   value: 'https://datavisio.store'
 - name: WIDGET_BRAND_URL
   value: 'https://datavisio.store'
 - name: BRAND_NAME
-  value: 'VisioChat'
+  value: 'VisioChat Brand'
 - name: TERMS_URL
   value: 'https://www.chatwoot.com/terms-of-service'
 - name: PRIVACY_URL
